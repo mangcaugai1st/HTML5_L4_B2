@@ -1,0 +1,20 @@
+.videoOpt {
+    position: relative;
+    display: block;
+/*    left: 50%; */
+    margin-left: 35%;
+}
+button {
+    color: dodgerblue;
+    padding: 15px 30px;
+    font-size: 16px;
+}
+#myVideo {
+    width: 900px;
+    display: block;
+    margin: 0 auto;
+}
+audio {
+    display: block;
+    margin: 0 auto;
+}
